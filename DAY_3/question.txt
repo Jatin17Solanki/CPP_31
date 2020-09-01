@@ -1,0 +1,6 @@
+Q1) Excel Column Number
+
+Q2) Find n^x in log N
+
+Q3) Count trailing zeros in factorial of a number in log n time
+
